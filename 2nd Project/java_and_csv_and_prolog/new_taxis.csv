@@ -1,0 +1,7 @@
+X,Y,id,available,capacity,languages,rating,long_distance,type
+23.7351831,37.956919,100,yes,1-4,greek,9.2,yes,subcompact
+23.673198,37.99249,110,no,1-4,greek|english,8.3,yes,subcompact
+23.6765535,37.9925888,120,yes,1-4,greek,8,no,compact
+23.698954,37.968635,150,yes,1-4,greek,6.3,no,subcompact
+23.7751601,38.968635,210,yes,1-4,greek,9.2,yes,compact
+23.6816285,39.968635,250,yes,5-8,greek|english,9.5,yes,minivan
