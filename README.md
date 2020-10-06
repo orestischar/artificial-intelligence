@@ -8,4 +8,4 @@ In the first project we created a java based service where a client can call for
 We implemented a variation of the A* algorith so that it returns alternate best routes.
 
 # 2nd Project
-Here we improved the 1st project by adding some extra criteria using Prolog.
+Here we improved the 1st project by adding some extra criteria using Prolog. In order to implement the Java-Prolog "communication" we used JIProlog.
