@@ -1,4 +1,4 @@
-# artificial-intelligence
+# artificialintelligence - taxi app
 Projects for the Artificial Intelligence class 2018-2019 in NTUA ECE
 
 These projects depict a smart taxi service. The inputs are in csv files and the outputs are kml files.
